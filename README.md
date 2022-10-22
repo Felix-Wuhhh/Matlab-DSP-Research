@@ -1,1 +1,7 @@
-[matlab.md](https://github.com/Felix-Wuhhh/Matlab-DSP-Research/files/9844397/matlab.md)
+![image](https://user-images.githubusercontent.com/53901191/197340462-5821e50c-4a7f-4f6c-8039-4f5e78ac7a41.png)
+![image](https://user-images.githubusercontent.com/53901191/197340475-33a32202-9fe9-495d-9c39-34b7b06d5914.png)
+![image](https://user-images.githubusercontent.com/53901191/197340490-09bc348c-3d67-45ed-8af3-912aabbf292b.png)
+![image](https://user-images.githubusercontent.com/53901191/197340508-cccd4a64-9998-47dc-b6bb-b8a2dcf051d8.png)
+![image](https://user-images.githubusercontent.com/53901191/197340530-553d4a89-fe82-4a8f-a405-a7a786c0a155.png)
+![image](https://user-images.githubusercontent.com/53901191/197340594-970eceec-313b-49f2-9773-3461ff4d6d53.png)
+![image](https://user-images.githubusercontent.com/53901191/197340549-1061adc0-a76f-4766-9156-d8f965ebecd9.png)

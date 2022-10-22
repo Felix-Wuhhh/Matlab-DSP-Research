@@ -1,2 +1,1 @@
-# Matlab-DSP-Research
-This is a research on the working principles of shelving filter, IIR delay, flanger, and chorus
+[matlab.md](https://github.com/Felix-Wuhhh/Matlab-DSP-Research/files/9844397/matlab.md)
